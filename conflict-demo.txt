@@ -1,1 +1,3 @@
-hey this is the demo practies of conflict
+Hey, this is the demo practice of a conflict from the master branch.
+This content is from development branch.
+Hello, this is the second conflict-demo file.
