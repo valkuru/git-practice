@@ -1,2 +1,0 @@
-This file is created to practice Git Revert.
-Learning Git and GitHub for DevOps.
