@@ -1,0 +1,3 @@
+Learning Git Commit Amend.
+This is my amend practice
+Git Amend allows us to update the latest commit.
